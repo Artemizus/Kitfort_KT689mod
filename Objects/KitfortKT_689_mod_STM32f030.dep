@@ -1,0 +1,163 @@
+Dependencies for Project 'KitfortKT_689_mod', Target 'STM32f030': (DO NOT MODIFY !)
+F (.\Code\src\adc.c)(0x66C5FC7D)(--c99 -c --cpu Cortex-M0 -g -W -O3 --apcs=interwork --split_sections -I ..\KitfortKT_689_mod -I .\Code\inc-I.\RTE\_STM32f030-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F030x6 -DSTM32F030x6-o .\objects\adc.o --omf_browse .\objects\adc.crf --depend .\objects\adc.d)
+I (.\Code\inc\adc.h)(0x66684AF8)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x61A84B68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f030x6.h)(0x61A84B68)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F056E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8322E2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x61A84B68)
+I (.\Code\inc\timer.h)(0x6652A39F)
+F (.\Code\src\gpio.c)(0x6652A0D4)(--c99 -c --cpu Cortex-M0 -g -W -O3 --apcs=interwork --split_sections -I ..\KitfortKT_689_mod -I .\Code\inc-I.\RTE\_STM32f030-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F030x6 -DSTM32F030x6-o .\objects\gpio.o --omf_browse .\objects\gpio.crf --depend .\objects\gpio.d)
+I (.\Code\inc\gpio.h)(0x666DBAE1)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x61A84B68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f030x6.h)(0x61A84B68)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F056E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8322E2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x61A84B68)
+F (.\Code\src\i2c.c)(0x66CD908C)(--c99 -c --cpu Cortex-M0 -g -W -O3 --apcs=interwork --split_sections -I ..\KitfortKT_689_mod -I .\Code\inc-I.\RTE\_STM32f030-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F030x6 -DSTM32F030x6-o .\objects\i2c.o --omf_browse .\objects\i2c.crf --depend .\objects\i2c.d)
+I (.\Code\inc\i2c.h)(0x66212BB3)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x61A84B68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f030x6.h)(0x61A84B68)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F056E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8322E2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x61A84B68)
+F (.\Code\src\main.c)(0x66CD95B9)(--c99 -c --cpu Cortex-M0 -g -W -O3 --apcs=interwork --split_sections -I ..\KitfortKT_689_mod -I .\Code\inc-I.\RTE\_STM32f030-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F030x6 -DSTM32F030x6-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (.\Code\inc\main.h)(0x66C35151)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x61A84B68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f030x6.h)(0x61A84B68)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F056E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8322E2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x61A84B68)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x599F056E)
+I (.\Code\inc\rcc.h)(0x66519DC6)
+I (.\Code\inc\gpio.h)(0x666DBAE1)
+I (.\Code\inc\adc.h)(0x66684AF8)
+I (.\Code\inc\timer.h)(0x6652A39F)
+I (.\Code\inc\ssd1306.h)(0x664E0C9B)
+I (.\Code\inc\i2c.h)(0x66212BB3)
+I (.\Code\inc\fonts.h)(0x6686B359)
+I (.\Code\inc\menu.h)(0x66762642)
+I (.\Code\inc\eeprom.h)(0x66422582)
+I (.\Code\inc\keyboard.h)(0x667633B1)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599F056C)
+I (.\Code\inc\regulator.h)(0x66C9572B)
+F (.\Code\src\rcc.c)(0x66763A18)(--c99 -c --cpu Cortex-M0 -g -W -O3 --apcs=interwork --split_sections -I ..\KitfortKT_689_mod -I .\Code\inc-I.\RTE\_STM32f030-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F030x6 -DSTM32F030x6-o .\objects\rcc.o --omf_browse .\objects\rcc.crf --depend .\objects\rcc.d)
+I (.\Code\inc\rcc.h)(0x66519DC6)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x61A84B68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f030x6.h)(0x61A84B68)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F056E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8322E2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x61A84B68)
+F (.\Code\src\timer.c)(0x66762FA3)(--c99 -c --cpu Cortex-M0 -g -W -O3 --apcs=interwork --split_sections -I ..\KitfortKT_689_mod -I .\Code\inc-I.\RTE\_STM32f030-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F030x6 -DSTM32F030x6-o .\objects\timer.o --omf_browse .\objects\timer.crf --depend .\objects\timer.d)
+I (.\Code\inc\timer.h)(0x6652A39F)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x61A84B68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f030x6.h)(0x61A84B68)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F056E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8322E2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x61A84B68)
+F (.\Code\src\keyboard.c)(0x6676331D)(--c99 -c --cpu Cortex-M0 -g -W -O3 --apcs=interwork --split_sections -I ..\KitfortKT_689_mod -I .\Code\inc-I.\RTE\_STM32f030-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F030x6 -DSTM32F030x6-o .\objects\keyboard.o --omf_browse .\objects\keyboard.crf --depend .\objects\keyboard.d)
+I (.\Code\inc\keyboard.h)(0x667633B1)
+I (.\Code\inc\gpio.h)(0x666DBAE1)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x61A84B68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f030x6.h)(0x61A84B68)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F056E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8322E2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x61A84B68)
+I (.\Code\inc\timer.h)(0x6652A39F)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599F056C)
+F (.\Code\src\eeprom.c)(0x66CAA2CB)(--c99 -c --cpu Cortex-M0 -g -W -O3 --apcs=interwork --split_sections -I ..\KitfortKT_689_mod -I .\Code\inc-I.\RTE\_STM32f030-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F030x6 -DSTM32F030x6-o .\objects\eeprom.o --omf_browse .\objects\eeprom.crf --depend .\objects\eeprom.d)
+I (.\Code\inc\eeprom.h)(0x66422582)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x61A84B68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f030x6.h)(0x61A84B68)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F056E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8322E2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x61A84B68)
+F (.\Code\src\sound_pwm.c)(0x66763AA5)(--c99 -c --cpu Cortex-M0 -g -W -O3 --apcs=interwork --split_sections -I ..\KitfortKT_689_mod -I .\Code\inc-I.\RTE\_STM32f030-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F030x6 -DSTM32F030x6-o .\objects\sound_pwm.o --omf_browse .\objects\sound_pwm.crf --depend .\objects\sound_pwm.d)
+I (.\Code\inc\sound_pwm.h)(0x66763A18)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x61A84B68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f030x6.h)(0x61A84B68)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F056E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8322E2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x61A84B68)
+F (.\Code\src\menu.c)(0x66CDA11A)(--c99 -c --cpu Cortex-M0 -g -W -O3 --apcs=interwork --split_sections -I ..\KitfortKT_689_mod -I .\Code\inc-I.\RTE\_STM32f030-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F030x6 -DSTM32F030x6-o .\objects\menu.o --omf_browse .\objects\menu.crf --depend .\objects\menu.d)
+I (.\Code\inc\menu.h)(0x66762642)
+I (.\Code\inc\eeprom.h)(0x66422582)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x61A84B68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f030x6.h)(0x61A84B68)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F056E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8322E2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x61A84B68)
+I (.\Code\inc\ssd1306.h)(0x664E0C9B)
+I (.\Code\inc\i2c.h)(0x66212BB3)
+I (.\Code\inc\fonts.h)(0x6686B359)
+I (.\Code\inc\keyboard.h)(0x667633B1)
+I (.\Code\inc\gpio.h)(0x666DBAE1)
+I (.\Code\inc\timer.h)(0x6652A39F)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599F056C)
+I (.\Code\inc\adc.h)(0x66684AF8)
+F (.\Code\src\fonts.c)(0x66CD9F64)(--c99 -c --cpu Cortex-M0 -g -W -O3 --apcs=interwork --split_sections -I ..\KitfortKT_689_mod -I .\Code\inc-I.\RTE\_STM32f030-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F030x6 -DSTM32F030x6-o .\objects\fonts.o --omf_browse .\objects\fonts.crf --depend .\objects\fonts.d)
+I (.\Code\inc\fonts.h)(0x6686B359)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F056E)
+F (.\Code\src\ssd1306.c)(0x66CD908C)(--c99 -c --cpu Cortex-M0 -g -W -O3 --apcs=interwork --split_sections -I ..\KitfortKT_689_mod -I .\Code\inc-I.\RTE\_STM32f030-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F030x6 -DSTM32F030x6-o .\objects\ssd1306.o --omf_browse .\objects\ssd1306.crf --depend .\objects\ssd1306.d)
+I (.\Code\inc\ssd1306.h)(0x664E0C9B)
+I (.\Code\inc\i2c.h)(0x66212BB3)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x61A84B68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f030x6.h)(0x61A84B68)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F056E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8322E2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x61A84B68)
+I (.\Code\inc\fonts.h)(0x6686B359)
+F (.\Code\src\regulator.c)(0x66CAA25D)(--c99 -c --cpu Cortex-M0 -g -W -O3 --apcs=interwork --split_sections -I ..\KitfortKT_689_mod -I .\Code\inc-I.\RTE\_STM32f030-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F030x6 -DSTM32F030x6-o .\objects\regulator.o --omf_browse .\objects\regulator.crf --depend .\objects\regulator.d)
+I (.\Code\inc\regulator.h)(0x66C9572B)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x61A84B68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f030x6.h)(0x61A84B68)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F056E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8322E2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x61A84B68)
+I (.\Code\inc\eeprom.h)(0x66422582)
+F (RTE\Device\STM32F030F4Px\startup_stm32f030x6.s)(0x61A84B68)(--cpu Cortex-M0 -g --apcs=interwork -I.\RTE\_STM32f030-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include--pd "__UVISION_VERSION SETA 525" --pd "_RTE_ SETA 1" --pd "STM32F030x6 SETA 1"--list .\listings\startup_stm32f030x6.lst --xref -o .\objects\startup_stm32f030x6.o --depend .\objects\startup_stm32f030x6.d)
+F (RTE\Device\STM32F030F4Px\system_stm32f0xx.c)(0x61A84B68)(--c99 -c --cpu Cortex-M0 -g -W -O3 --apcs=interwork --split_sections -I ..\KitfortKT_689_mod -I .\Code\inc-I.\RTE\_STM32f030-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F030x6 -DSTM32F030x6-o .\objects\system_stm32f0xx.o --omf_browse .\objects\system_stm32f0xx.crf --depend .\objects\system_stm32f0xx.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x61A84B68)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f030x6.h)(0x61A84B68)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F056E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8322E2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EED42)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x61A84B68)

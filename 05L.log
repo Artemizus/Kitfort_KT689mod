@@ -1,0 +1,497 @@
+# SEGGER J-Link RTT Viewer V6.92 Terminal Log File
+# Compiled: 13:15:39 on Dec 18 2020
+# Logging started @ 06 Aug 2024 20:56:02
+00> SEGGER J-Link V6.30h - Real time terminal output
+00> SEGGER J-Link ARM V9.5, SN=29534585
+00> Process: UV4.exe
+00> Heat OFF
+00> Heat ON
+00> Calc time: 168
+00> Time: 0
+00> Time: 1
+00> Setpoint temperature: 920
+00> Real temperature: 283
+00> Speed temperature: 35
+00> Time: 2
+00> Setpoint temperature: 920
+00> Real temperature: 283
+00> Speed temperature: 35
+00> Time: 3
+00> Setpoint temperature: 920
+00> Real temperature: 283
+00> Speed temperature: 35
+00> Time: 4
+00> Setpoint temperature: 920
+00> Real temperature: 282
+00> Speed temperature: 35
+00> Time: 5
+00> Setpoint temperature: 920
+00> Real temperature: 282
+00> Speed temperature: 35
+00> Time: 6
+00> Setpoint temperature: 920
+00> Real temperature: 282
+00> Speed temperature: 35
+00> Time: 7
+00> Setpoint temperature: 920
+00> Real temperature: 282
+00> Speed temperature: 35
+00> Time: 8
+00> Setpoint temperature: 920
+00> Real temperature: 282
+00> Speed temperature: 35
+00> Time: 9
+00> Setpoint temperature: 920
+00> Real temperature: 282
+00> Speed temperature: 35
+00> Time: 10
+00> Setpoint temperature: 920
+00> Real temperature: 282
+00> Speed temperature: 35
+00> Time: 11
+00> Setpoint temperature: 920
+00> Real temperature: 282
+00> Speed temperature: 35
+00> Time: 12
+00> Setpoint temperature: 920
+00> Real temperature: 282
+00> Speed temperature: 35
+00> Time: 13
+00> Setpoint temperature: 920
+00> Real temperature: 282
+00> Speed temperature: 35
+00> Time: 14
+00> Setpoint temperature: 920
+00> Real temperature: 281
+00> Speed temperature: 35
+00> Time: 15
+00> Setpoint temperature: 920
+00> Real temperature: 281
+00> Speed temperature: 35
+00> Time: 16
+00> Setpoint temperature: 920
+00> Real temperature: 280
+00> Speed temperature: 35
+00> Time: 17
+00> Setpoint temperature: 920
+00> Real temperature: 265
+00> Speed temperature: 35
+00> Time: 18
+00> Setpoint temperature: 920
+00> Real temperature: 298
+00> Speed temperature: 1
+00> Time: 19
+00> Setpoint temperature: 920
+00> Real temperature: 296
+00> Speed temperature: 1
+00> Time: 20
+00> Setpoint temperature: 920
+00> Real temperature: 295
+00> Speed temperature: 1
+00> Time: 21
+00> Setpoint temperature: 920
+00> Real temperature: 293
+00> Speed temperature: 1
+00> Time: 22
+00> Setpoint temperature: 920
+00> Real temperature: 290
+00> Speed temperature: 1
+00> Time: 23
+00> Setpoint temperature: 920
+00> Real temperature: 307
+00> Speed temperature: 2
+00> Time: 24
+00> Setpoint temperature: 920
+00> Real temperature: 302
+00> Speed temperature: 2
+00> Time: 25
+00> Setpoint temperature: 920
+00> Real temperature: 318
+00> Speed temperature: 4
+00> Time: 26
+00> Setpoint temperature: 920
+00> Real temperature: 313
+00> Speed temperature: 4
+00> Time: 27
+00> Setpoint temperature: 920
+00> Real temperature: 329
+00> Speed temperature: 5
+00> Time: 28
+00> Setpoint temperature: 920
+00> Real temperature: 324
+00> Speed temperature: 5
+00> Time: 29
+00> Setpoint temperature: 920
+00> Real temperature: 338
+00> Speed temperature: 2
+00> Time: 30
+00> Setpoint temperature: 920
+00> Real temperature: 333
+00> Speed temperature: 2
+00> Time: 31
+00> Setpoint temperature: 920
+00> Real temperature: 348
+00> Speed temperature: 2
+00> Time: 32
+00> Setpoint temperature: 920
+00> Real temperature: 343
+00> Speed temperature: 2
+00> Time: 33
+00> Setpoint temperature: 920
+00> Real temperature: 358
+00> Speed temperature: 3
+00> Time: 34
+00> Setpoint temperature: 920
+00> Real temperature: 352
+00> Speed temperature: 3
+00> Time: 35
+00> Setpoint temperature: 920
+00> Real temperature: 366
+00> Speed temperature: 3
+00> Time: 36
+00> Setpoint temperature: 920
+00> Real temperature: 361
+00> Speed temperature: 3
+00> Time: 37
+00> Setpoint temperature: 920
+00> Real temperature: 376
+00> Speed temperature: 4
+00> Time: 38
+00> Setpoint temperature: 920
+00> Real temperature: 371
+00> Speed temperature: 4
+00> Time: 39
+00> Setpoint temperature: 920
+00> Real temperature: 388
+00> Speed temperature: 4
+00> Time: 40
+00> Setpoint temperature: 920
+00> Real temperature: 382
+00> Speed temperature: 4
+00> Time: 41
+00> Setpoint temperature: 920
+00> Real temperature: 396
+00> Speed temperature: 4
+00> Time: 42
+00> Setpoint temperature: 920
+00> Real temperature: 390
+00> Speed temperature: 4
+00> Time: 43
+00> Setpoint temperature: 920
+00> Real temperature: 405
+00> Speed temperature: 4
+00> Time: 44
+00> Setpoint temperature: 920
+00> Real temperature: 400
+00> Speed temperature: 4
+00> Time: 45
+00> Setpoint temperature: 920
+00> Real temperature: 414
+00> Speed temperature: 4
+00> Time: 46
+00> Setpoint temperature: 920
+00> Real temperature: 429
+00> Speed temperature: 5
+00> Time: 47
+00> Setpoint temperature: 920
+00> Real temperature: 424
+00> Speed temperature: 5
+00> Time: 48
+00> Setpoint temperature: 920
+00> Real temperature: 438
+00> Speed temperature: 5
+00> Time: 49
+00> Setpoint temperature: 920
+00> Real temperature: 433
+00> Speed temperature: 5
+00> Time: 50
+00> Setpoint temperature: 920
+00> Real temperature: 446
+00> Speed temperature: 5
+00> Time: 51
+00> Setpoint temperature: 920
+00> Real temperature: 395
+00> Speed temperature: 5
+00> Time: 52
+00> Setpoint temperature: 920
+00> Real temperature: 453
+00> Speed temperature: 5
+00> Time: 53
+00> Setpoint temperature: 920
+00> Real temperature: 467
+00> Speed temperature: 6
+00> Time: 54
+00> Setpoint temperature: 920
+00> Real temperature: 460
+00> Speed temperature: 6
+00> Time: 55
+00> Setpoint temperature: 920
+00> Real temperature: 474
+00> Speed temperature: 6
+00> Time: 56
+00> Setpoint temperature: 920
+00> Real temperature: 488
+00> Speed temperature: 7
+00> Time: 57
+00> Setpoint temperature: 920
+00> Real temperature: 482
+00> Speed temperature: 7
+00> Time: 58
+00> Setpoint temperature: 920
+00> Real temperature: 496
+00> Speed temperature: 7
+00> Time: 59
+00> Setpoint temperature: 920
+00> Real temperature: 509
+00> Speed temperature: 7
+00> Time: 60
+00> Setpoint temperature: 920
+00> Real temperature: 503
+00> Speed temperature: 7
+00> Time: 61
+00> Setpoint temperature: 920
+00> Real temperature: 517
+00> Speed temperature: 7
+00> Time: 62
+00> Setpoint temperature: 920
+00> Real temperature: 511
+00> Speed temperature: 7
+00> Time: 63
+00> Setpoint temperature: 920
+00> Real temperature: 526
+00> Speed temperature: 7
+00> Time: 64
+00> Setpoint temperature: 920
+00> Real temperature: 520
+00> Speed temperature: 7
+00> Time: 65
+00> Setpoint temperature: 920
+00> Real temperature: 535
+00> Speed temperature: 7
+00> Time: 66
+00> Setpoint temperature: 920
+00> Real temperature: 548
+00> Speed temperature: 7
+00> Time: 67
+00> Setpoint temperature: 920
+00> Real temperature: 542
+00> Speed temperature: 7
+00> Time: 68
+00> Setpoint temperature: 920
+00> Real temperature: 556
+00> Speed temperature: 7
+00> Time: 69
+00> Setpoint temperature: 920
+00> Real temperature: 550
+00> Speed temperature: 7
+00> Time: 70
+00> Setpoint temperature: 920
+00> Real temperature: 564
+00> Speed temperature: 6
+00> Time: 71
+00> Setpoint temperature: 920
+00> Real temperature: 579
+00> Speed temperature: 7
+00> Time: 72
+00> Setpoint temperature: 920
+00> Real temperature: 573
+00> Speed temperature: 7
+00> Time: 73
+00> Setpoint temperature: 920
+00> Real temperature: 588
+00> Speed temperature: 6
+00> Time: 74
+00> Setpoint temperature: 920
+00> Real temperature: 583
+00> Speed temperature: 6
+00> Time: 75
+00> Setpoint temperature: 920
+00> Real temperature: 597
+00> Speed temperature: 6
+00> Time: 76
+00> Setpoint temperature: 920
+00> Real temperature: 592
+00> Speed temperature: 6
+00> Time: 77
+00> Setpoint temperature: 920
+00> Real temperature: 606
+00> Speed temperature: 6
+00> Time: 78
+00> Setpoint temperature: 920
+00> Real temperature: 600
+00> Speed temperature: 6
+00> Time: 79
+00> Setpoint temperature: 920
+00> Real temperature: 614
+00> Speed temperature: 6
+00> Time: 80
+00> Setpoint temperature: 920
+00> Real temperature: 628
+00> Speed temperature: 6
+00> Time: 81
+00> Setpoint temperature: 920
+00> Real temperature: 622
+00> Speed temperature: 6
+00> Time: 82
+00> Setpoint temperature: 920
+00> Real temperature: 636
+00> Speed temperature: 6
+00> Time: 83
+00> Setpoint temperature: 920
+00> Real temperature: 634
+00> Speed temperature: 6
+00> Time: 84
+00> Setpoint temperature: 920
+00> Real temperature: 643
+00> Speed temperature: 6
+00> Time: 85
+00> Setpoint temperature: 920
+00> Real temperature: 657
+00> Speed temperature: 6
+00> Time: 86
+00> Setpoint temperature: 920
+00> Real temperature: 651
+00> Speed temperature: 6
+00> Time: 87
+00> Setpoint temperature: 920
+00> Real temperature: 664
+00> Speed temperature: 6
+00> Time: 88
+00> Setpoint temperature: 920
+00> Real temperature: 677
+00> Speed temperature: 7
+00> Time: 89
+00> Setpoint temperature: 920
+00> Real temperature: 671
+00> Speed temperature: 7
+00> Time: 90
+00> Setpoint temperature: 920
+00> Real temperature: 684
+00> Speed temperature: 7
+00> Time: 91
+00> Setpoint temperature: 920
+00> Real temperature: 698
+00> Speed temperature: 8
+00> Time: 92
+00> Setpoint temperature: 920
+00> Real temperature: 691
+00> Speed temperature: 8
+00> Time: 93
+00> Setpoint temperature: 920
+00> Real temperature: 705
+00> Speed temperature: 7
+00> Time: 94
+00> Setpoint temperature: 920
+00> Real temperature: 719
+00> Speed temperature: 8
+00> Time: 95
+00> Setpoint temperature: 920
+00> Real temperature: 713
+00> Speed temperature: 8
+00> Time: 96
+00> Setpoint temperature: 920
+00> Real temperature: 726
+00> Speed temperature: 8
+00> Time: 97
+00> Setpoint temperature: 920
+00> Real temperature: 725
+00> Speed temperature: 8
+00> Time: 98
+00> Setpoint temperature: 920
+00> Real temperature: 733
+00> Speed temperature: 7
+00> Time: 99
+00> Setpoint temperature: 920
+00> Real temperature: 746
+00> Speed temperature: 8
+00> Time: 100
+00> Setpoint temperature: 920
+00> Real temperature: 759
+00> Speed temperature: 8
+00> Time: 101
+00> Setpoint temperature: 920
+00> Real temperature: 752
+00> Speed temperature: 8
+00> Time: 102
+00> Setpoint temperature: 920
+00> Real temperature: 766
+00> Speed temperature: 8
+00> Time: 103
+00> Setpoint temperature: 920
+00> Real temperature: 765
+00> Speed temperature: 8
+00> Time: 104
+00> Setpoint temperature: 920
+00> Real temperature: 773
+00> Speed temperature: 6
+00> Time: 105
+00> Setpoint temperature: 920
+00> Real temperature: 787
+00> Speed temperature: 8
+00> Time: 106
+00> Setpoint temperature: 920
+00> Real temperature: 799
+00> Speed temperature: 8
+00> Time: 107
+00> Setpoint temperature: 920
+00> Real temperature: 792
+00> Speed temperature: 8
+00> Time: 108
+00> Setpoint temperature: 920
+00> Real temperature: 806
+00> Speed temperature: 8
+00> Time: 109
+00> Setpoint temperature: 920
+00> Real temperature: 817
+00> Speed temperature: 9
+00> Time: 110
+00> Setpoint temperature: 920
+00> Real temperature: 827
+00> Speed temperature: 8
+00> Time: 111
+00> Setpoint temperature: 920
+00> Real temperature: 836
+00> Speed temperature: 8
+00> Time: 112
+00> Setpoint temperature: 920
+00> Real temperature: 845
+00> Speed temperature: 8
+00> Time: 113
+00> Setpoint temperature: 920
+00> Real temperature: 854
+00> Speed temperature: 9
+00> Time: 114
+00> Setpoint temperature: 920
+00> Real temperature: 864
+00> Speed temperature: 9
+00> Time: 115
+00> Setpoint temperature: 920
+00> Real temperature: 874
+00> Speed temperature: 8
+00> Time: 116
+00> Setpoint temperature: 920
+00> Real temperature: 884
+00> Speed temperature: 9
+00> Time: 117
+00> Setpoint temperature: 920
+00> Real temperature: 895
+00> Speed temperature: 9
+00> Time: 118
+00> Setpoint temperature: 920
+00> Real temperature: 906
+00> Speed temperature: 9
+00> Time: 119
+00> Setpoint temperature: 920
+00> Real temperature: 918
+00> Speed temperature: 10
+00> Time: 120
+00> Setpoint temperature: 920
+00> Real temperature: 910
+00> Speed temperature: 10
+00> Time: 121
+00> Setpoint temperature: 920
+00> Real temperature: 923
+00> Speed temperature: 9
+00> Heat OFF
+
+# Logging stopped @  6 Aug 2024 21: 3: 7

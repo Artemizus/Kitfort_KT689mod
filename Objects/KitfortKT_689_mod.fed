@@ -1,0 +1,171 @@
+;#<FEEDBACK># ARM Linker, 5060750: Last Updated: Sat Apr 13 16:37:29 2024
+;VERSION 0.2
+;FILE adc.o
+ADC_Init <= USED 0
+Get_ADC <= USED 0
+__asm___5_adc_c_ADC_Init____REV16 <= USED 0
+__asm___5_adc_c_ADC_Init____REVSH <= USED 0
+;FILE event_groups.o
+uxEventGroupGetNumber <= USED 0
+vEventGroupClearBitsCallback <= USED 0
+vEventGroupDelete <= USED 0
+vEventGroupSetBitsCallback <= USED 0
+vEventGroupSetNumber <= USED 0
+xEventGroupClearBits <= USED 0
+xEventGroupCreate <= USED 0
+xEventGroupGetBitsFromISR <= USED 0
+xEventGroupSetBits <= USED 0
+xEventGroupSync <= USED 0
+xEventGroupWaitBits <= USED 0
+;FILE gpio.o
+Check_Button <= USED 0
+__asm___6_gpio_c_db00cdf9____REV16 <= USED 0
+__asm___6_gpio_c_db00cdf9____REVSH <= USED 0
+;FILE heap_2.o
+pvPortCalloc <= USED 0
+vPortInitialiseBlocks <= USED 0
+xPortGetFreeHeapSize <= USED 0
+;FILE i2c.o
+Get_I2C_data <= USED 0
+Get_flag_i2c_error <= USED 0
+I2C_Clear_Rx_count <= USED 0
+I2C_Clear_Tx_count <= USED 0
+I2C_Get_BUSY <= USED 0
+I2C_Send <= USED 0
+Reset_flag_i2c_error <= USED 0
+__asm___5_i2c_c_d5d45f5e____REV16 <= USED 0
+__asm___5_i2c_c_d5d45f5e____REVSH <= USED 0
+;FILE list.o
+vListInsertEnd <= USED 0
+;FILE main.o
+__asm___6_main_c_state____REV16 <= USED 0
+__asm___6_main_c_state____REVSH <= USED 0
+;FILE port.o
+SVCall_Handler <= USED 0
+vPortEndScheduler <= USED 0
+;FILE queue.o
+pcQueueGetName <= USED 0
+ucQueueGetQueueType <= USED 0
+uxQueueGetQueueNumber <= USED 0
+uxQueueMessagesWaiting <= USED 0
+uxQueueMessagesWaitingFromISR <= USED 0
+uxQueueSpacesAvailable <= USED 0
+vQueueDelete <= USED 0
+vQueueSetQueueNumber <= USED 0
+vQueueUnregisterQueue <= USED 0
+xQueueCreateCountingSemaphore <= USED 0
+xQueueCreateMutex <= USED 0
+xQueueGenericSend <= USED 0
+xQueueGenericSendFromISR <= USED 0
+xQueueGiveFromISR <= USED 0
+xQueueGiveMutexRecursive <= USED 0
+xQueueIsQueueEmptyFromISR <= USED 0
+xQueueIsQueueFullFromISR <= USED 0
+xQueuePeek <= USED 0
+xQueuePeekFromISR <= USED 0
+xQueueReceiveFromISR <= USED 0
+xQueueSemaphoreTake <= USED 0
+xQueueTakeMutexRecursive <= USED 0
+;FILE rcc.o
+__asm___5_rcc_c_RCC_Init____REV16 <= USED 0
+__asm___5_rcc_c_RCC_Init____REVSH <= USED 0
+;FILE segger_rtt.o
+SEGGER_RTT_ConfigDownBuffer <= USED 0
+SEGGER_RTT_ConfigUpBuffer <= USED 0
+SEGGER_RTT_GetKey <= USED 0
+SEGGER_RTT_HasKey <= USED 0
+SEGGER_RTT_Init <= USED 0
+SEGGER_RTT_Read <= USED 0
+SEGGER_RTT_SetTerminal <= USED 0
+SEGGER_RTT_TerminalOut <= USED 0
+SEGGER_RTT_WaitKey <= USED 0
+SEGGER_RTT_Write <= USED 0
+SEGGER_RTT_WriteString <= USED 0
+;FILE segger_rtt_printf.o
+SEGGER_RTT_printf <= USED 0
+SEGGER_RTT_vprintf <= USED 0
+;FILE startup_stm32f030x6.o
+;FILE stream_buffer.o
+ucStreamBufferGetStreamBufferType <= USED 0
+uxStreamBufferGetStreamBufferNumber <= USED 0
+vStreamBufferDelete <= USED 0
+vStreamBufferSetStreamBufferNumber <= USED 0
+xStreamBufferBytesAvailable <= USED 0
+xStreamBufferGenericCreate <= USED 0
+xStreamBufferIsEmpty <= USED 0
+xStreamBufferIsFull <= USED 0
+xStreamBufferNextMessageLengthBytes <= USED 0
+xStreamBufferReceive <= USED 0
+xStreamBufferReceiveCompletedFromISR <= USED 0
+xStreamBufferReceiveFromISR <= USED 0
+xStreamBufferReset <= USED 0
+xStreamBufferSend <= USED 0
+xStreamBufferSendCompletedFromISR <= USED 0
+xStreamBufferSendFromISR <= USED 0
+xStreamBufferSetTriggerLevel <= USED 0
+xStreamBufferSpacesAvailable <= USED 0
+;FILE system_stm32f0xx.o
+SystemCoreClockUpdate <= USED 0
+__asm___18_system_stm32f0xx_c_5d646a67____REV16 <= USED 0
+__asm___18_system_stm32f0xx_c_5d646a67____REVSH <= USED 0
+;FILE tasks.o
+eTaskGetState <= USED 0
+pcTaskGetName <= USED 0
+pvTaskIncrementMutexHeldCount <= USED 0
+ulTaskGenericNotifyTake <= USED 0
+ulTaskGenericNotifyValueClear <= USED 0
+uxTaskGetNumberOfTasks <= USED 0
+uxTaskGetSystemState <= USED 0
+uxTaskGetTaskNumber <= USED 0
+uxTaskPriorityGet <= USED 0
+uxTaskPriorityGetFromISR <= USED 0
+uxTaskResetEventItemValue <= USED 0
+vTaskDelay <= USED 0
+vTaskDelete <= USED 0
+vTaskEndScheduler <= USED 0
+vTaskGenericNotifyGiveFromISR <= USED 0
+vTaskGetInfo <= USED 0
+vTaskPlaceOnUnorderedEventList <= USED 0
+vTaskPriorityDisinheritAfterTimeout <= USED 0
+vTaskPrioritySet <= USED 0
+vTaskRemoveFromUnorderedEventList <= USED 0
+vTaskResume <= USED 0
+vTaskSetTaskNumber <= USED 0
+vTaskSetTimeOutState <= USED 0
+vTaskSuspend <= USED 0
+xTaskCatchUpTicks <= USED 0
+xTaskDelayUntil <= USED 0
+xTaskGenericNotify <= USED 0
+xTaskGenericNotifyFromISR <= USED 0
+xTaskGenericNotifyStateClear <= USED 0
+xTaskGenericNotifyWait <= USED 0
+xTaskGetCurrentTaskHandle <= USED 0
+xTaskGetTickCountFromISR <= USED 0
+xTaskPriorityDisinherit <= USED 0
+xTaskPriorityInherit <= USED 0
+xTaskResumeFromISR <= USED 0
+;FILE timer.o
+Get_TIMER <= USED 0
+Pause_TIMER <= USED 0
+Release_TIMER <= USED 0
+Reset_TIMER <= USED 0
+Start_TIMER <= USED 0
+Stop_TIMER <= USED 0
+TIMER_Init <= USED 0
+__asm___7_timer_c_2848f329____REV16 <= USED 0
+__asm___7_timer_c_2848f329____REVSH <= USED 0
+;FILE timers.o
+pcTimerGetName <= USED 0
+pvTimerGetTimerID <= USED 0
+uxTimerGetReloadMode <= USED 0
+uxTimerGetTimerNumber <= USED 0
+vTimerSetReloadMode <= USED 0
+vTimerSetTimerID <= USED 0
+vTimerSetTimerNumber <= USED 0
+xTimerCreate <= USED 0
+xTimerGenericCommand <= USED 0
+xTimerGetExpiryTime <= USED 0
+xTimerGetPeriod <= USED 0
+xTimerGetReloadMode <= USED 0
+xTimerGetTimerDaemonTaskHandle <= USED 0
+xTimerIsTimerActive <= USED 0

@@ -1,0 +1,12 @@
+.\objects\ssd1306.o: Code\src\ssd1306.c
+.\objects\ssd1306.o: .\Code\inc\ssd1306.h
+.\objects\ssd1306.o: .\Code\inc\i2c.h
+.\objects\ssd1306.o: C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h
+.\objects\ssd1306.o: C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f030x6.h
+.\objects\ssd1306.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h
+.\objects\ssd1306.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ssd1306.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\ssd1306.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\ssd1306.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\ssd1306.o: C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h
+.\objects\ssd1306.o: .\Code\inc\fonts.h

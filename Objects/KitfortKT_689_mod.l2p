@@ -1,0 +1,23 @@
+--cpu Cortex-M0
+".\objects\adc.o"
+".\objects\gpio.o"
+".\objects\i2c.o"
+".\objects\main.o"
+".\objects\rcc.o"
+".\objects\segger_rtt.o"
+".\objects\segger_rtt_printf.o"
+".\objects\timer.o"
+".\objects\croutine.o"
+".\objects\event_groups.o"
+".\objects\heap_2.o"
+".\objects\list.o"
+".\objects\port.o"
+".\objects\queue.o"
+".\objects\stream_buffer.o"
+".\objects\tasks.o"
+".\objects\timers.o"
+".\objects\startup_stm32f030x6.o"
+".\objects\system_stm32f0xx.o"
+--library_type=microlib --ro-base 0x08000000 --entry 0x08000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\KitfortKT_689_mod.map" -o .\Objects\KitfortKT_689_mod.axf
